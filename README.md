@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! 👋 
 
-<!--
-**brun1gomes/brun1gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou **Bruno**, atualmente atuando como desenvolvedor Oracle, Java e Python. Com expertise em automação de processos.
 
-Here are some ideas to get you started:
+## 🚀 Hard Skills
+- **Programming Languages:** Python, Java e C++
+- **Web Development:** CSS
+- **DevOps & IT Management:** SCRUM e Information Technology Service Management (ITSM)
+- **Cloud & Platforms:** Oracle ERP, Oracle Fusion e DocuSign
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Educação
+- **FMU** - Análise e Desenvolvimento de Sistemas
+
+## 💼 Experiência Profissional
+- **HDI Seguros** - Desenvolvedor de Sistemas
+  - Desenvolvendo automações, aplicações locais;
+  - Sustentação Oracle Fusion;
+  - Documentação e revisão de processos.
+
+## 🌐 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-chaves-gomes-51b25626a/)
+
+ 
